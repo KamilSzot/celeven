@@ -128,7 +128,7 @@ int main(void) {
 	      <meta http-equiv="content-type" content="text/html; charset=utf-8">
 	    </head>
 	    <body>
-	    śłąg ---  
+	    śłąg ---
 	    <h1>.)"_html + title + R"(</h1>)"_html + 
 	 ("var a = "_js + "</script>" + ";"_js) +
 	 "</body></html>"_html;
